@@ -9,7 +9,12 @@ __curated_transform.ipynb__ shows the full process, including: mount bucket, pro
 We can add it as a job and use aws lambda to trigger databricks job to implement auto ETL process when datalake haing new data in the future.
 
 ___
+
+Data From: https://www.kaggle.com/kanchanlakhlan/insta-cart-eda/data
+
+___
 ___
 
 Author: Yi Ding
+
 Contact: dydifferent@gmail.com
